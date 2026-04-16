@@ -1,0 +1,38 @@
+body h1 {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    /* font-weight: <weight>; */
+    font-style: normal;
+    /* font-variation-settings: "wdth" 100; */
+
+}
+
+body h2,
+h3,
+p,
+blockquote {
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    /* font-weight: ; */
+    font-style: normal;
+}
+
+h1 {
+    margin: 0;
+    padding: 2px;
+}
+
+a {
+    text-decoration: none;
+}
+
+table img {
+    width: 100px;
+    height: auto;
+}
+
+.productos img {
+    width: 200px;
+    height: auto;
+}
+
